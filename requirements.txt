@@ -2,3 +2,7 @@ streamlit
 anthropic
 voyageai
 supabase
+pymupdf
+SpeechRecognition
+pydub
+streamlit-mic-recorder
